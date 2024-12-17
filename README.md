@@ -1,10 +1,10 @@
 # Washing_Machine
 
-##Project Overview
+#Project Overview
 
 This project implements a Washing Machine Controller using Finite State Machine (FSM) in Verilog HDL. The system transitions through various states to automate the washing machine's functions: door check, water filling, detergent addition, wash cycle, water draining, and spinning for drying. The design ensures correct state flow based on conditions like water levels, detergent presence, and timeouts.
 
-Features
+#Features
 
 State Management: Implements a 6-state FSM to control the washing machine:
 
