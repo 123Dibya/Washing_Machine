@@ -25,6 +25,20 @@ Conditions Handled:
 
 Looping/Completion: Clothes can be removed after drying or the cycle can be repeated.
 
+# State Diagram 
+
+![download](https://github.com/user-attachments/assets/6e039fb2-0710-4f9e-821d-f60cbf1fa4dc)
+
+![Machine 1](https://github.com/user-attachments/assets/f04380a4-2787-491d-8782-d63a93d685ff)
+
+# Simulation
+
+* EDA Playground
+* Vivado(2022.1v)
+
+
+
+
 
 
 
